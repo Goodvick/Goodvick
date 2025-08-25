@@ -3,7 +3,7 @@
 
 Начинающий HTML-верстальщик, создаю адаптивные и современные веб-интерфейсы с использованием БЭМ мэтодологии. Уверенно владею базовым стеком технологий: HTML5, CSS3/SCSS, JavaScript/jQuery, Bootstrap/Tailwind. Умею работать с макетами из Figma и Photoshop, внимательно слежу за соответствием вёрстки дизайну. Быстро учусь, ответственно подхожу к задачам и желаю развиваться в сфере веб-разработки. Ищу возможность присоединиться к команде для работы над реальными проектами.
 
-* ✉️  Вы можете связаться со мной <a href="https://t.me/pahan_t" target="_blank"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="15" alt="telegram logo"/></a> <a href="https://mail.ru/teplicov@mail.ru" target="_blank"><img src="https://img.shields.io/static/v1?message=Mail&logo=mail&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="15" alt="mail.ru logo"/></a>
+<p>✉️  Вы можете связаться со мной <a href="https://t.me/pahan_t" target="_blank"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="telegram logo"/></a> <a href="https://mail.ru/teplicov@mail.ru" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=-red&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="mail.ru logo"/></a></p>  
 
 ### Skills
 
